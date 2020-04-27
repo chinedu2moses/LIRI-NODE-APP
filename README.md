@@ -1,7 +1,7 @@
-# LIRI-NODE-APP<h1>
-## ABOUT<h2>
->**Liri is a command-line application that provides information about songs, concerts, and movies based on specific commands and user search input.**
->## TECHNOLOGIES USED<h2>
+# Liri Node App
+## ABOUT
+**Liri is a command-line application that provides information about songs, concerts, and movies based on specific commands and user search input.**
+## TECHNOLOGIES USED
 1. Git 
 1. GitHub 
 1. JavaScript
