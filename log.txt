@@ -1,0 +1,64 @@
+=======Begin Movie Log Entry======
+Movie title: Seven Samurai
+Year released:======Begin Concert Log Entry======
+Name of the musician: pjmorton
+Name of the venue:======Begin Concert Log Entry======
+Name of the musician: twiddle
+Name of the venue:======Begin Concert Log Entry======
+Name of the musician: starset
+Name of the venue:=======Begin Movie Log Entry======
+Movie title: Avatar
+Year released:=======Begin Movie Log Entry======
+Movie title: Up
+Year released:=======Begin Movie Log Entry======
+Movie title: Memento
+Year released:=======Begin Movie Log Entry======
+Movie title: Amadeus
+Year released:======Begin Concert Log Entry======
+Name of the musician: thesecretsisters
+Name of the venue:======Begin Concert Log Entry======
+Name of the musician: poolside
+Name of the venue:======Begin Concert Log Entry======
+Name of the musician: felly
+Name of the venue:=======Begin Movie Log Entry======
+Movie title: Rocky
+Year released:=======Begin Movie Log Entry======
+Movie title: Inception
+Year released:======Begin Concert Log Entry======
+Name of the musician: inception
+Name of the venue:======Begin Spotify Log Entry======
+Artist: Maroon 5
+======Begin Spotify Log Entry======
+Artist: Michael Jackson
+======Begin Spotify Log Entry======
+Artist: Maroon 5
+======Begin Concert Log Entry======
+Name of the musician: maroon 5
+Name of the venue:======Begin Spotify Log Entry======
+Artist: Maroon 5
+======Begin Spotify Log Entry======
+Artist: Lil Nas X
+======Begin Spotify Log Entry======
+Artist: Maroon 5
+=======Begin Movie Log Entry======
+Movie title: Avatar
+Year released:======Begin Spotify Log Entry======
+Artist: Quality Control
+======Begin Spotify Log Entry======
+Artist: Ariana Grande
+======Begin Spotify Log Entry======
+Artist: Maroon 5
+=======Begin Movie Log Entry======
+Movie title: Avatar
+Year released:=======Begin Movie Log Entry======
+Movie title: Avatar
+Year released:=======Begin Movie Log Entry======
+Movie title: Airplane!
+Year released:======Begin Spotify Log Entry======
+Artist: Maroon 5
+======Begin Spotify Log Entry======
+Artist: Quality Control
+======Begin Spotify Log Entry======
+Artist: Ariana Grande
+======Begin Spotify Log Entry======
+Artist: Lil Nas X
