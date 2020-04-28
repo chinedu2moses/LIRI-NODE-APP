@@ -62,3 +62,11 @@ Artist: Quality Control
 Artist: Ariana Grande
 ======Begin Spotify Log Entry======
 Artist: Lil Nas X
+======Begin Spotify Log Entry======
+Artist: Michael Jackson
+======Begin Spotify Log Entry======
+Artist: Jay Max
+======Begin Spotify Log Entry======
+Artist: U.S.A. For Africa
+======Begin Spotify Log Entry======
+Artist: Hillsong Worship
